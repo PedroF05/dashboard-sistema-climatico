@@ -11,7 +11,7 @@ O sistema coleta e organiza informações climáticas de diversas cidades e as e
 O painel foi dividido em seções principais:
 
 * **Clima Atual** – exibe temperatura atual, sensação térmica, ponto de orvalho, direção e velocidade do vento, índice UV e condição do tempo.  
-* **Previsão Semanal** – apresenta a previsão dos próximos 7 dias, com máxima, mínima, chance de chuva e condições climáticas.  
+* **Previsão Semanal** – apresenta a previsão dos próximos 3 dias, com máxima, mínima e chance de chuva.  
 * **Histórico de Temperaturas** – monitora as variações de temperatura e condições ao longo do tempo.  
 * **Alertas Automáticos** – identifica condições extremas (calor, chuvas fortes, UV alto) e envia notificações por e-mail aos usuários cadastrados.
 
