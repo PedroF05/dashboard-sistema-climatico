@@ -59,7 +59,7 @@ O painel foi dividido em seções principais:
 !\[Dashboard] (prints/Dashboard.png)
 
 ### 🔹 Alertas
-!\[Alertas] (prints/Alertas.png)
+!\[Alertas] (prints/Alerta.png)
 
 -------------------------------------------------------------
 
