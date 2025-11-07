@@ -48,7 +48,7 @@ O painel foi dividido em seções principais:
 * `cidades_triangulo.csv` → Lista de cidades monitoradas  
 * `usuarios.csv` → Lista de usuários que recebem alertas  
 * `saci.db` → Banco de dados SQLite  
-* `dashboard_saci.pbix` → Painel do Power BI com todas as análises
+* `Dashboard SACI.pbix` → Painel do Power BI com todas as análises
 *  `prints/` → Capturas de tela das páginas do painel  
 
 -------------------------------------------------------------
