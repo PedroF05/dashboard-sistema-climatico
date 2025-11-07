@@ -29,7 +29,7 @@ O painel foi dividido em seções principais:
 
 ## 🧠 Estrutura do Projeto
 
-* O script Python realiza **consultas automáticas à API** para obter os dados climáticos atuais e as previsões dos próximos 7 dias.  
+* O script Python realiza **consultas automáticas à API** para obter os dados climáticos atuais e as previsões dos próximos 3 dias.  
 * As informações são armazenadas no **banco de dados SQLite**, organizadas em duas tabelas:
   - `clima_capitais` → dados de temperatura e clima atuais  
   - `previsao_semana` → previsão dos próximos dias  
@@ -42,7 +42,7 @@ O painel foi dividido em seções principais:
 
 ## ⚙️ Estrutura do Repositório
 
-* `coleta_clima.py` → Script principal de coleta e alerta  
+* `main.py` → Script principal de coleta e alerta  
 * `banco_de_dados.py` → Criação das tabelas e inserção no banco  
 * `alerts.py` → Geração de alertas automáticos e envio por e-mail  
 * `cidades_triangulo.csv` → Lista de cidades monitoradas  
