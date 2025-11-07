@@ -55,10 +55,10 @@ O painel foi dividido em seções principais:
 ## 📎 Prints do Dashboard
 
 ### 🔹 Dashboard
-![Dashboard](prints/dashboard.png)
+!\[Dashboard](prints/dashboard.png)
 
 ### 🔹 Alertas
-![Alertas](prints/alertas.png)
+!\[Alertas](prints/alertas.png)
 
 -------------------------------------------------------------
 
