@@ -5,7 +5,7 @@ from datetime import datetime
 from banco_de_dados import inicializar_banco, inserir_clima, inserir_previsao
 from alerts import gerar_alerta, enviar_email
 
-API_KEY = "ce18b8140d4f4c9a948120048252509"
+API_KEY = #"coloque aqui sua chave"
 FORCAR_TESTE = False
 
 
@@ -132,3 +132,4 @@ if __name__ == "__main__":
             enviar_email(user["email"], "Teste SACI - Sistema Climático", mensagem_teste)
 
     print("\n📁 Coleta e gravação concluídas com sucesso.")
+
