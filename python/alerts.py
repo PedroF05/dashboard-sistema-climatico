@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ORIGEM = "alertas.climaticos00@gmail.com"
-SENHA_APP = "tnixzryztjnzfeeq"
+EMAIL_ORIGEM = #"coloque aqui seu e-mail"
+SENHA_APP = #"coloque aqui sua chave de acesso"
 
 def gerar_alerta(registro):
     alertas = []
@@ -35,3 +35,4 @@ def enviar_email(destinatario, assunto, mensagem):
         print(f"📧 E-mail enviado para {destinatario}")
     except Exception as e:
         print(f"⚠️ Erro ao enviar e-mail: {e}")
+
